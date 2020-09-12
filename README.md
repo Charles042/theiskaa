@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://github.com/theiskaa/theiskaa/blob/master/gradient.png" width="820">
+<img src="https://github.com/theiskaa/theiskaa/blob/master/tag.png" width="820">
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
 
