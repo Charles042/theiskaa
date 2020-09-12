@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="https://github.com/theiskaa/theiskaa/blob/master/gradient.png" width="820">
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
 
 I'm Ismael Shakverdiev from **Georgia**, live in **Azerbaijan**. I'm a tenth grade student in school.   
