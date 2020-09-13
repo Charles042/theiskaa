@@ -26,7 +26,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 </a>
 
 <br/>
-
+ 
 ### Recent repository:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theiskaa&repo=taskplan)](https://github.com/theiskaa/taskplan)
 
