@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
 
 I'm Ismael Shakverdiev from **Georgia**, live in **Azerbaijan**. I'm a tenth grade student in school.   
-I’m currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX Designing.** <br/>
+I’m currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX** Designing <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.***
 
 [![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/IsmaelSh4?style=social)](https://twitter.com/IsmaelSh4)
