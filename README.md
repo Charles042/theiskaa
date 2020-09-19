@@ -8,6 +8,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 
 [![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/IsmaelSh4?style=social)](https://twitter.com/IsmaelSh4)
 [![GitHub theiskaa](https://img.shields.io/github/followers/theiskaa?label=follow&style=social)](https://github.com/theiskaa)
+
 ### Conect with me:
 <a href="https://instagram.com/theiskaa/">
   <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -28,7 +29,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 <br/>
  
 ### Recent repository:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theiskaa&repo=taskplan)](https://github.com/theiskaa/taskplan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theiskaa&repo=shoermark)](https://github.com/theiskaa/shoermark)
 
 ### Languages and Tools:
 <a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter%20-%23323330.svg?&style=for-the-badge&logo=Flutter&logoColor=%#blueAccent" alt="theiskaa"/></a> 
