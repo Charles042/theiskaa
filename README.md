@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
 
 I'm Ismael Shakverdiev from **Georgia**, live in **Azerbaijan**. I'm a tenth grade student in school.
-I’m currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX** Designing <br/>
+I’m currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX** Designing. <br/>
 I'm currently working at ***Plüton Yazılım*** ("Pluto Software") - Mobile Developer | UI Designer <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.***
 
