@@ -26,7 +26,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 <a href="mailto:st.bahahd@gmail.com?subject=test%20subject&body=test%20body">
   <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
- 
+  
 <br/>
  
 ### Recent repository:
