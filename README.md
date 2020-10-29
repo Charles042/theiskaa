@@ -5,7 +5,6 @@
 I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
 I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
-**I am a just student** 
 
 
 [![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/IsmaelSh4?style=social)](https://twitter.com/IsmaelSh4)
