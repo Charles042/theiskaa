@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
 
-I'm Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
-I’m currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX** Designing. <br/>
-I'm currently working at **Minor Software** Founder & Mobile Developer | UI Designer <br/>
+I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
+I'm currently learning **Flutter-Dart** | **Mobile Development** and **UI/UX** Designing. <br/>
+I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.***
 
 [![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/IsmaelSh4?style=social)](https://twitter.com/IsmaelSh4)
