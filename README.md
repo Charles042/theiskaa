@@ -30,7 +30,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 <br/>
  
 ### Recent repository:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theiskaa&repo=pokedex)](https://github.com/theiskaa/pokedex) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theiskaa&repo=superhero)](https://github.com/theiskaa/superhero) 
 
 ### Languages and Tools:
 <a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter%20-%23323330.svg?&style=for-the-badge&logo=Flutter&logoColor=%#blueAccent" alt="theiskaa"/></a> 
