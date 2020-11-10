@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p> 
 
 I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
 I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/>
