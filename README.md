@@ -4,8 +4,8 @@
 
 I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
 I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/>
+And ***Designer*** and ***Developer*** at *TAVT(Türkiye Azerbaycan Vizyon Tiyatrosu)* <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
-
 
 [![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/IsmaelSh4?style=social)](https://twitter.com/IsmaelSh4)
 [![GitHub theiskaa](https://img.shields.io/github/followers/theiskaa?label=follow&style=social)](https://github.com/theiskaa)
