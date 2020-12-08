@@ -9,7 +9,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 
 ### Conect with me:
 
-<a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/theiskaa-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=pink" alt="theiskaa"/></a> 
+<a href="https://pub.dev/packages/sqflite" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=red" alt="theiskaa"/></a> 
 
 <a href="https://instagram.com/theiskaa/">
   <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -31,7 +31,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
  
 ### Languages and Tools:
 <a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="theiskaa"/></a> 
-<a href="https://pub.dev/packages/sqflite" target="blank"><img align="center" src="https://img.shields.io/badge/Sqlite%20-%23323330.svg?&style=for-the-badge&logo=Sqlite&logoColor=%#red" alt="theiskaa"/></a> 
+<a href="https://pub.dev/packages/sqflite" target="blank"><img align="center" src="https://img.shields.io/badge/Sqlite%20-%23323330.svg?&style=for-the-badge&logo=Sqlite&logoColor=red" alt="theiskaa"/></a> 
 <a href="https://firebase.google.com" target="blank"><img align="center" src="https://img.shields.io/badge/Firebase%20-%23323330.svg?&style=for-the-badge&logo=Firebase&logoColor=%#orange" alt="theiskaa"/></a> 
 <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://img.shields.io/badge/vs code%20-%23323330.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="theiskaa"/></a>  
 
