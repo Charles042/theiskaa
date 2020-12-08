@@ -31,7 +31,7 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 <br/>
  
 ### Languages and Tools:
-<a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter%20-%23323330.svg?&style=for-the-badge&logo=Flutter&logoColor=%#blueAccent" alt="theiskaa"/></a> 
+<a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter%20-%23323330.svg?&style=for-the-badge&logo=Flutter&logoColor=%#blue" alt="theiskaa"/></a> 
 <a href="https://pub.dev/packages/sqflite" target="blank"><img align="center" src="https://img.shields.io/badge/Sqlite%20-%23323330.svg?&style=for-the-badge&logo=Sqlite&logoColor=%#red" alt="theiskaa"/></a> 
 <a href="https://firebase.google.com" target="blank"><img align="center" src="https://img.shields.io/badge/Firebase%20-%23323330.svg?&style=for-the-badge&logo=Firebase&logoColor=%#orange" alt="theiskaa"/></a> 
 <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://img.shields.io/badge/vs code%20-%23323330.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%#blue" alt="theiskaa"/></a>  
