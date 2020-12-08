@@ -10,23 +10,10 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 ### Conect with me:
 
 <a href="https://instagram.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=red" alt="theiskaa"/></a> 
-<a href="https://facebook.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=blue" alt="theiskaa"/></a> 
-<a href="https://twitter.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20-%23323330.svg?&style=for-the-badge&logo=Instagram&logoColor=blueAcent" alt="theiskaa"/></a> 
+<a href="https://facebook.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook%20-%23323330.svg?&style=for-the-badge&logo=Facebook&logoColor=blue" alt="theiskaa"/></a> 
+<a href="https://twitter.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20-%23323330.svg?&style=for-the-badge&logo=Twitter&logoColor=blueAcent" alt="theiskaa"/></a> 
 <a href="mailto:st.bahahd@gmail.com?subject=test%20subject&body=test%20body" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="theiskaa"/></a> 
 
-<a href="https://instagram.com/theiskaa/">
-  <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/theiskaa/">
-  <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/IsmaeSh4">
-  <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:st.bahahd@gmail.com?subject=test%20subject&body=test%20body">
-  <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-  
 <br/>
  
 ### Languages and Tools:
