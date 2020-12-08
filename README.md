@@ -8,6 +8,9 @@ And ***Designer*** and ***Developer*** at ***TAVT*** *(Türkiye Azerbaycan Vizyo
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
 ### Conect with me:
+
+<a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/theiskaa-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=pink" alt="theiskaa"/></a> 
+
 <a href="https://instagram.com/theiskaa/">
   <img align="left" alt="theiskaa" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
