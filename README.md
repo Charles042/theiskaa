@@ -7,7 +7,7 @@ I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** a
 And ***Designer*** and ***Developer*** at ***TAVT*** *(Türkiye Azerbaycan Vizyon Tiyatrosu)* <br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
-[![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/theiskaa?style=social)](https://twitter.com/IsmaelSh4)
+[![Twitter: IsmaelSh4](https://img.shields.io/twitter/follow/theiskaa?style=social)](https://twitter.com/theiskaa)
 [![GitHub theiskaa](https://img.shields.io/github/followers/theiskaa?label=follow&style=social)](https://github.com/theiskaa)
 
 
