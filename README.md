@@ -6,6 +6,11 @@ I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle 
 I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/> 
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
+### Best Repoes:
+- [Minor News](https://github.com/theiskaa/minor-news)
+- [Hacker News App](https://github.com/theiskaa/hackernews_app)
+- [Classmate](https://github.com/theiskaa/classmate)
+
 ### Conect with me:
 
 <a href="https://instagram.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="theiskaa"/></a> 
