@@ -13,11 +13,11 @@ You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬�
 
 ### Conect with me:
 
-<a href="https://www.linkedin.com/in/ismael-shakverdiev-4b6355202/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="theiskaa"/></a> 
 <a href="https://instagram.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="theiskaa"/></a> 
 <a href="https://facebook.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook%20-%230077B5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="theiskaa"/></a> 
 <a href="https://twitter.com/theiskaa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="theiskaa"/></a> 
 <a href="mailto:st.bahahd@gmail.com?subject=test%20subject&body=test%20body" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="theiskaa"/></a> 
+<a href="https://www.linkedin.com/in/ismael-shakverdiev-4b6355202/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="theiskaa"/></a> 
  
 ### Languages and Tools:
 <a href="https://flutter.io" target="blank"><img align="center" src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="theiskaa"/></a> 
