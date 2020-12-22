@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p> 
 
 I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle school<br/>
-I am a ***Founder*** & ***cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/> 
+I am a ***Founder*** & ***Cross platform developer*** and ***UI|UX Designer*** at **Minor Software** <br/> 
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
 #### Best Repositories:
-- [Minor News](https://github.com/theiskaa/minor-news)
+- [Papernews](https://github.com/theiskaa/papernews)
 - [Hacker News App](https://github.com/theiskaa/hackernews_app)
 - [Classmate](https://github.com/theiskaa/classmate)
 
