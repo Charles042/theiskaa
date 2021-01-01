@@ -6,10 +6,12 @@ I am Ismael Shakverdiev from **Azerbaijan**. I'm a tenth grade student on midle 
 I am ***Junior Flutter Developer*** and ***UI|UX Designer***<br/>
 You can speak with me in 4 different language: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
+<!--
 #### Best Repositories:
 - [Papernews](https://github.com/theiskaa/papernews)
 - [Hacker News App](https://github.com/theiskaa/hackernews_app)
 - [Classmate](https://github.com/theiskaa/classmate)
+-->
 
 ### Conect with me:
 
