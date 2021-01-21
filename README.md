@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p> 
 
 I am Cross Platform Mobile ***(Flutter)*** Developer and ***Self taught Designer*** <br/>
-I'm Mobile(Flutter) Developer at [**Lomsa**](https://lomsa.com)
+I'm Mobile ***(Flutter)***) Developer at [**Lomsa**](https://lomsa.com)  <br/>
 You can contact me in these languages: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
 <!--
