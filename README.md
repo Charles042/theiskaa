@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p> 
 
-I am focused on Mobile ***(Flutter)*** Development. <br/>
-I'm Mobile Application(***Flutter***) Developer at [**Lomsa**](https://lomsa.com)  <br/>
-You can contact me in these languages: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
+I'm a Mobile Application developer at [**Lomsa**](https://lomsa.com) <br/>
+Focused on Dart/Flutter and also on Swift UI <br/> 
+Contact me with: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
 <!--
 #### Best Repositories:
