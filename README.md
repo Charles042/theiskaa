@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-theiskaa&color=red" alt="theiskaa" /> </p> 
+# Hi there I'm Ismael 👋
 
 I'm a Mobile Application developer at [**Lomsa**](https://lomsa.com) <br/>
 Focused on Dart/Flutter and also on Swift UI <br/> 
